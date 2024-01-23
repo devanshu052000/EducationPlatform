@@ -1,3 +1,11 @@
+Instructions to run the project locally on your system:
+
+1. Clone the dummy API repository, then go to the destination through the terminal and run "npm i", and after that run "node index.js".
+
+2. Clone the Education Platform repository, then go to the destination through the terminal and run "npm i", and after that run command "npm run start".
+
+3. The video assignment is attached and both the dummy API and react application should be running locally simultaneously for the project to work properly.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
